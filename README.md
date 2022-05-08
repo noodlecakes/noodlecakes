@@ -1,6 +1,6 @@
-### An aspiring programmer
+### An Aspiring Programmer
 
-Skills: PHP / JavaScript / HTML
+Skills: Web Development
 
-- 🖥️ I’m currently developing with <a href="https://github.com/axtonprice-dev">@axtonprice-dev</a>
-- 📚 I’m currently working on <a href="https://github.com/brendanprice2003/chappie">Chappie AI</a>
+- 🖥️ I’m currently developing with <a href="https://github.com/axtonprice-dev">@axtonprice-dev</a>, and <a href="https://github.com/axtonprice">@axtonprice</a>.
+- 📚 I’m currently learning PHP and JavaScript for various projects.
