@@ -1,8 +1,4 @@
-# Hey there, my name is Tilly! 👋
-#### An aspiring programmer
-<img height="30px" src="https://img.shields.io/discord/789584377436438538?label=discord&style=for-the-badge" />
-
-**About Me**
+### An aspiring programmer
 
 Skills: PHP / JavaScript / HTML
 
